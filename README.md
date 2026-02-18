@@ -1,16 +1,17 @@
 <h1 align="center">
-  Hi, I'm Noelle 👋🏾✨
+  Hi, I'm Noelle 👋🏾
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Data+Analyst;Turning+Data+into+Insights+%26+Models;Machine+Learning+%7C+Power+BI+%7C+SQL;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+  <b>Data Scientist & Data Analyst</b> | Always Learning, Always Building! 🚀
 </p>
+
 
 ---
 
 ## About Me
 
-I'm a **Data Scientist & Data Analyst** passionate about turning raw data into impactful solutions, predictive models, and business-driven dashboards.
+I'm a **Data Scientist** passionate about turning raw data into impactful solutions, predictive models, and business-driven dashboards.
 
 I enjoy working on projects that involve **machine learning, analytics, automation, and building data pipelines**. I’m always open to collaborating on exciting data-driven work. If you're solving problems with data, I want to be part of that conversation.
 
@@ -44,7 +45,3 @@ Email: **noellemburu@gmail.com**
 LinkedIn: **[Noelle Mburu](https://www.linkedin.com/in/noelle-mburu)**  
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
