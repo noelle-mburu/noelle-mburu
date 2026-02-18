@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <b>Data Scientist & Data Analyst</b> | Always Learning, Always Building! 🚀
+  <span style="font-size: 18px;"><b>Data Scientist & Data Analyst</b></span>  |  Always Learning, Always Building! 🚀
 </p>
+
 
 
 ---
