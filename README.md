@@ -1,61 +1,33 @@
-## Hi there 👋 I'm Noelle Mburu
+# Hi, I'm Noelle 👋
 
-### Data Scientist & Data Analyst
+**Data Scientist & Data Analyst**
 
-I'm a data professional who transforms raw data into actionable insights that drive business decisions. I believe data's greatest power lies in answering the *why* behind business outcomes — enabling organizations to move from gut instinct to evidence-based strategy. I combine strong technical skills with clear communication to deliver solutions that are both efficient and impactful.
+I turn messy data into clear answers. Whether it's building machine learning models or designing dashboards, I focus on delivering insights that actually move the needle for business goals. I believe the best solutions come from collaboration — blending technical rigor with the ability to explain what the data is really saying. If you're solving problems with data, I want to be part of that conversation.
 
 ---
 
 ## Tech Stack
 
-**Languages & Libraries**
+**Python:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**SQL:** PostgreSQL, MySQL — joins, aggregations, complex queries
 
-**Data Science & Machine Learning**
+**Power BI:** DAX, Power Query, custom dashboards
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+**Excel:** PivotTables, Power Query, automation
 
-**Data Engineering**
+**Web Scraping:** Selenium, browser automation
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**Databases:** MongoDB Atlas, cloud deployment
 
-**Business Intelligence & Analytics**
+**Machine Learning:** Classification, regression, deep learning (CNNs), model evaluation
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Core Competencies**
-
-`Data Cleaning` `Data Visualization` `Machine Learning` `Deep Learning` `Web Scraping` `Statistical Analysis` `Forecasting` `DAX` `Power Query` `ETL Pipelines`
+**Data Engineering:** ETL pipelines, data transformation, validation frameworks
 
 ---
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelle-mburu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noellemburu@gmail.com)
+I'm always open to collaborating on interesting data projects or discussing opportunities where I can contribute. Whether you're hiring, building something cool, or just want to talk shop — reach out.
 
-<!--
-**noelle-mburu/noelle-mburu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelle-mburu) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noellemburu@gmail.com)
