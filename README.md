@@ -1,33 +1,50 @@
-# Hi, I'm Noelle 👋
+<h1 align="center">
+  Hi, I'm Noelle 👋🏾✨
+</h1>
 
-**Data Scientist & Data Analyst**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Data+Scientist+%7C+Data+Analyst;Turning+Data+into+Insights+%26+Models;Machine+Learning+%7C+Power+BI+%7C+SQL;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
+</p>
 
-I turn messy data into clear answers. Whether it's building machine learning models or designing dashboards, I focus on delivering insights that actually move the needle for business goals. I believe the best solutions come from collaboration — blending technical rigor with the ability to explain what the data is really saying. If you're solving problems with data, I want to be part of that conversation.
+---
+
+## About Me
+
+I'm a **Data Scientist & Data Analyst** passionate about turning raw data into impactful solutions, predictive models, and business-driven dashboards.
+
+I enjoy working on projects that involve **machine learning, analytics, automation, and building data pipelines**. I’m always open to collaborating on exciting data-driven work. If you're solving problems with data, I want to be part of that conversation.
 
 ---
 
 ## Tech Stack
 
-**Python:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
+- **Python:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
 
-**SQL:** PostgreSQL, MySQL — joins, aggregations, complex queries
+- **SQL:** PostgreSQL, MySQL — joins, aggregations, complex queries
 
-**Power BI:** DAX, Power Query, custom dashboards
+- **Power BI:** DAX, Power Query, custom dashboards
 
-**Excel:** PivotTables, Power Query, automation
+- **Excel:** PivotTables, Power Query, automation
 
-**Web Scraping:** Selenium, browser automation
+- **Web Scraping:** Selenium, browser automation
 
-**Databases:** MongoDB Atlas, cloud deployment
+- **Databases:** MongoDB Atlas, cloud deployment
 
-**Machine Learning:** Classification, regression, deep learning (CNNs), model evaluation
+- **Machine Learning:** Classification, regression, deep learning (CNNs), model evaluation
 
-**Data Engineering:** ETL pipelines, data transformation, validation frameworks
+- **Data Engineering:** ETL pipelines, data transformation, validation frameworks
 
 ---
 
-## Let's Connect
+## Let's Connect!
 
-I'm always open to collaborating on interesting data projects or discussing opportunities where I can contribute. Whether you're hiring, building something cool, or just want to talk shop — reach out.
+I'm always open to collaborating on interesting data projects or discussing opportunities where I can contribute.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelle-mburu) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noellemburu@gmail.com)
+Email: **noellemburu@gmail.com**  
+LinkedIn: **[Noelle Mburu](https://www.linkedin.com/in/noelle-mburu)**  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
