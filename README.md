@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <span style="font-size: 18px;"><b>Data Scientist & Data Analyst</b></span>  |  Always Learning, Always Building! 🚀
+  <span style="font-size: 18px;"><b>Data Scientist & Analyst</b></span>  |  Always Learning, Always Building! 🚀
 </p>
 
 
@@ -12,9 +12,9 @@
 
 ## About Me
 
-I'm a **Data Scientist** passionate about turning raw data into impactful solutions, predictive models, and business-driven dashboards.
+I'm a Data Scientist passionate about turning raw data into impactful solutions, predictive models, and business-driven dashboards.
 
-I enjoy working on projects that involve **machine learning, analytics, automation, and building data pipelines**. I’m always open to collaborating on exciting data-driven work. If you're solving problems with data, I want to be part of that conversation.
+I enjoy working on projects that involve machine learning, analytics, automation, and building data pipeline. I’m always open to collaborating on exciting data-driven work. If you're solving problems with data, I want to be part of that conversation.
 
 ---
 
